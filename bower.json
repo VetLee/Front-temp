@@ -1,0 +1,20 @@
+{
+  "name": "frontend_template",
+  "description": "Gulp. Slim, Sass, JS, CoffeeScript boilerplate. Needs coffee for build",
+  "authors": [
+    "VetLee"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/VetLee/Front-temp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "3.*"
+  }
+}
